@@ -13,3 +13,7 @@ int main (int argc, char *argv[]) {
     return 0;
 }
 ```
+
+## Random Image
+
+![Lorem Picsum Image](https://picsum.photos/300/200)
